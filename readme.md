@@ -1,4 +1,5 @@
-**What is the title of the software project? (project/title)**:
+*Readme created with RDMO* **What is the title of the software project?
+(project/title)**:
 
 Test SMP Project
 
