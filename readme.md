@@ -1,5 +1,3 @@
-bla bla bla
-
 ### Readme created with RDMO
 
 **What is the title of the software project? (project/title)**:
