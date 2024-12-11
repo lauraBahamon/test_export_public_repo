@@ -19,8 +19,6 @@ Erweiterung einer bestehenden Software
 
 Pepito Pérez
 
-Max Mustermann
-
 **What licences are on the third-party software components?
 (smp/third-party-licenses):**
 
