@@ -2,14 +2,14 @@ cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Lisa"
- given-names: "Mona"
- orcid: "https://orcid.org/0000-0000-0000-0000"
+ given-names: "Mona"
+ orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Bot"
- given-names: "Hew"
- orcid: "https://orcid.org/0000-0000-0000-0000"
+ given-names: "Hew"
+ orcid: "https://orcid.org/0000-0000-0000-0000"
 title: " Test SMP "
 version: {here comes the software version}
 identifiers:
 - type: doi
-value: 10.5281/zenodo.1234
+ value: 10.5281/zenodo.1234
 date-released: 2024-12-16
