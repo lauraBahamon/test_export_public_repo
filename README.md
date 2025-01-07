@@ -7,7 +7,7 @@ Test SMP
 **Which research field(s) does this software belong to?
 (project/research_field):**
 
-Engineering Sciences / Computer Science
+Ingenieurwissenschaften / Informatik
 
 **What is the intended use of the software? How will your software
 contribute to research? (project/research_question/title):**
