@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pepito Pérez"
+  given-names: "Pepito Pérez"
+  orcid: "Pepito Pérez"
+title: "Mein erstes Software Development Projekt (als Admin)"
+version: {here comes the software version}
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.1234
+date-released: 2024-12-16
