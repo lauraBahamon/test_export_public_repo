@@ -2,7 +2,7 @@
 
 **What is the title of the software project? (project/title):**
 
-Test SMP
+Mein erstes Software Development Projekt (als Admin)
 
 **Which research field(s) does this software belong to?
 (project/research_field):**
@@ -20,6 +20,6 @@ Erweiterung einer bestehenden Software
 Pepito Pérez
 
 **What licences are on the third-party software components?
-(smp/third-party-licenses):**
+(smp/software-license):**
 
-BSD-3-Clause license
+BSD-3-Clause
