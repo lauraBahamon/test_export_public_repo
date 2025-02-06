@@ -22,4 +22,6 @@ Pepito Pérez
 **What licences are on the third-party software components?
 (smp/software-license):**
 
+Apache-2.0
+
 BSD-3-Clause
