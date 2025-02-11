@@ -14,12 +14,13 @@ contribute to research? (project/research_question/title):**
 
 Erweiterung einer bestehenden Software
 
-\-\-\-\-\-\-\-\--
+**Who are the project participants that deal with this software?
+(project/partner):**
 
-\-\-\-\-\-\-\-\-\-\-- **Who are the project participants that deal with
-this software? (project/partner):**
-
-Pepito Pérez
+-   Tina Mustermann ( https://orcid.org/XXXX-XXXX-XXXX-X012 ),
+    Meteorologist and project leader, MPI YYY
+-   Fred Feuerstein ( https://orcid.org/XXXX-XXXX-XXXX-X345 ),
+    Meteorologist, MPI YYY
 
 **What licences are on the third-party software components?
 (smp/software-license):**
