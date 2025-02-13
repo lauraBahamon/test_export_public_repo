@@ -2,6 +2,11 @@ cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
 
+-   family-names: "Pérez"
+    given-names: "Pepita"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-X678"
+    affiliation: "Universität ZZZ"
+
 title: "Mein erstes Software Development Projekt (als Admin)"
 version: {here comes the software version}
 doi: 10.5281/zenodo.1234
