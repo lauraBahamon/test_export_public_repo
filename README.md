@@ -17,6 +17,9 @@ Erweiterung einer bestehenden Software
 **Who are the project participants that deal with this software?
 (project/partner):**
 
+-   Pepita Pérez (https://orcid.org/XXXX-XXXX-XXXX-X678), Universität
+    ZZZ
+
 **What licences are on the third-party software components?
 (smp/software-license):**
 
