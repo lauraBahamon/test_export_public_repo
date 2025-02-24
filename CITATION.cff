@@ -2,12 +2,16 @@ cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
 
--   family-names: "Pérez"
-    given-names: "Pepita"
-    orcid: "https://orcid.org/XXXX-XXXX-XXXX-X678"
-    affiliation: "Universität ZZZ"
+-   family-names: "Mustermann"
+    given-names: "Tina"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-X012"
+    affiliation: "MPI YYY"
+-   family-names: "Feuerstein"
+    given-names: "Fred"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-X345"
+    affiliation: "MPI YYY"
 
-title: "Mein erstes Software Development Projekt (als Admin)"
+title: "Weather Analyser"
 version: {here comes the software version}
 doi: 10.5281/zenodo.1234
-date-released: 2026-09-30
+date-released: 2027-04-30
